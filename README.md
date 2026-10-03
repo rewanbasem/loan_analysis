@@ -81,7 +81,8 @@ Different charts are used to make the analysis easier to understand, including:
 * 🔵 Scatter Plots
 * 📦 Box Plots
 * 🔥 Correlation Heatmaps
-
+Correlation Heatmap
+![Loan Correlation Heatmap](heat%20of%20loan.png)
 ---
 
 ## 📈 Key Insights
