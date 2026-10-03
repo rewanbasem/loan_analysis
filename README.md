@@ -162,7 +162,7 @@ Through this project, I practiced:
 📊 Aspiring Data Scientist | Data Analyst
 
 🔗 **GitHub:** https://github.com/rewanbasem
-🔗 **LinkedIn:** https://www.linkedin.com/in/rewan-basem-5b90b036b
+🔗 **LinkedIn:** https://www.linkedin.com/in/rewan-basem
 
 ---
 
